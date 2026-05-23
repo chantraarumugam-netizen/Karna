@@ -1,0 +1,6 @@
+{
+  "name": "BIGTO AI",
+  "description": "Create Beyond Imagination - Futuristic AI Chatbot, Script Generator, and Multimodal Assistant",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
